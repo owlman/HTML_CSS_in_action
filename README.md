@@ -1,11 +1,11 @@
 # HTML5+CSS3 网页设计项目教材
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![FontAwesome 5](https://img.shields.io/badge/FontAwesome_5-528DD7?style=flat&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 一本面向前端初学者的网页设计教材，通过 5 个企业级项目实践，循序渐进地教授 HTML5 + CSS3 + Bootstrap 网页设计技术。
 
@@ -32,22 +32,22 @@
 ## 📂 项目结构
 
 ```bash
-├── Markdown/          # 书稿内容（Markdown 格式）
-│   ├── 00.md          # 前言
-│   ├── 01.md          # 项目 1：企业的线上名片设计
-│   ├── 02.md          # 项目 2：企业网站的首页设计
-│   ├── 03.md          # 项目 3：企业网站的新闻活动页设计
-│   ├── 04.md          # 项目 4：企业网站的产品展示页设计
-│   └── 05.md          # 项目 5：企业网站的申请表单页设计
+├── Markdown/             # 书稿内容（Markdown 格式）
+│   ├── 00.md             # 前言
+│   ├── 01.md             # 项目 1：企业的线上名片设计
+│   ├── 02.md             # 项目 2：企业网站的首页设计
+│   ├── 03.md             # 项目 3：企业网站的新闻活动页设计
+│   ├── 04.md             # 项目 4：企业网站的产品展示页设计
+│   └── 05.md             # 项目 5：企业网站的申请表单页设计
 │
 ├── Examples/             # 示例代码
 │   ├── 00_demo/          # Bootstrap 框架演示
 │   ├── 01_BusinessCard/  # 项目 1 代码：线上名片
 │   └── 02_SnowBear/      # 项目 2-5 代码：凌雪冰熊企业网站
 │
-├── LICENSE            # MIT 开源协议
-├── README.md          # 项目说明
-└── .gitignore         # Git 忽略配置
+├── LICENSE               # MIT 开源协议
+├── README.md             # 项目说明
+└── .gitignore            # Git 忽略配置
 ```
 
 ## 🚀 快速开始
